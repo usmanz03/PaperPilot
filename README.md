@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/syed-muhammad-usman-zafar/PaperPilot/main/assets/paper-plane.png" alt="PaperPilot Logo" width="64" height="64">
   <h1>PaperPilot: AI Research Paper Co-Author</h1>
   <p><em>A Neuro-Symbolic Agentic Framework for Research Paper Co-Authoring</em></p>
+  https://medium.com/@usmanzafar2003/paperpilot-building-an-ai-research-assistant-that-actually-works-95b40112f613
 </div>
 
 ---
